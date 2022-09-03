@@ -23,3 +23,23 @@ https://reffect.co.jp/vue/vuetify-for-beginner
 
 vueの基礎ならこちらで
 https://reffect.co.jp/vue/beginner-vue
+
+# 実行コマンド
+
+```
+rails _6.1.6_ new vue-test --webpack=vue
+
+# package.jsonのvueのバージョンを2系に変更する(3系だと動かない)
+"vue": "^2.6.14",
+"vue-loader": "^15.7.0",
+"vue-template-compiler": "^2.6.12",
+
+# 2系に変更になる
+yarn install
+
+# その後、vuetifyも2系に対応する
+yarn add vuetify
+
+# これで使えるようになる
+yarn add bootstrap jquery @popperjs/core @fortawesome/fontawesome-free
+```
