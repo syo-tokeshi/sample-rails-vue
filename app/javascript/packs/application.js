@@ -5,5 +5,7 @@
 
 import Rails from "@rails/ujs"
 import "channels"
+import "bootstrap"
+import '../stylesheets/application.scss'
 
 Rails.start()
