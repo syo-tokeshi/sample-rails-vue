@@ -1,24 +1,10 @@
-# README
+# 参考文献
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+セットアップ
+https://zenn.dev/n199603/articles/a555f46fb6614d
 
-Things you may want to cover:
+vuetify この通りにやると出来るが、遅い
+https://usconsort.com/programming-rubyonrails-vue1/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+bootstrap
+https://zenn.dev/jinwatanabe/articles/063c0589987652437025
